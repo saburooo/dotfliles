@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/akira/programing_language/jaVa/JavaSilverSE11_Sample/chapter6/6-13'
+let g:netrw_dirhist_5='/home/akira/programing_language/jaVa/JavaSilverSE11_Sample/chapter6'
+let g:netrw_dirhist_4='/home/akira/programing_language/jaVa/JavaSilverSE11_Sample/chapter6/6-9'
+let g:netrw_dirhist_3='/home/akira/atcoder/coprime2'
+let g:netrw_dirhist_2='/home/akira/programing_language/elm-lang/simple-stat'
+let g:netrw_dirhist_1='/home/akira/myhomepage/myportfolio'

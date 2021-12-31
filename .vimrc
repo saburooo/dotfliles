@@ -6,8 +6,9 @@ set nocompatible
 set number
 set visualbell
 set smartindent
-syntax enable
 set list listchars=tab:\>\-
+
+colorscheme molokai
 syntax enable
 
 filetype plugin on

@@ -18,5 +18,7 @@ runtime macros/matchit.vim
 call plug#begin('~/.vim/autoload/plug')
 
 Plug 'elmcast/elm-vim'
+Plug 'preservim/nerdtree'
+Plug 'tpope/vim-surround'
 
 call plug#end()
